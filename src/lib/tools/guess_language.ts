@@ -14,6 +14,7 @@ export type languageName =
   | 'portugese'
   | 'spanish'
   | 'swedish'
+  | 'french'
 
 // just a few language codes of 'franc' mapped to 'nltk-stopwords'-keys for now
 const languageNameMapping = {
@@ -24,6 +25,7 @@ const languageNameMapping = {
   por: 'portuguese',
   spa: 'spanish',
   swh: 'swedish',
+  fra: 'french',
 }
 
 // detect the language of a given string or word array

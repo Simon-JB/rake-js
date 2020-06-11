@@ -23,7 +23,7 @@ const languageNameMapping = {
   fra: 'french',
   ita: 'italian',
   nld: 'dutch',
-  por: 'portuguese',
+  por: 'portugese',
   spa: 'spanish',
   swh: 'swedish',
 }
